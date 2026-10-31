@@ -1,80 +1,103 @@
-# Hi, I'm Jayesh C J 👋
+# 👋 Hi, I'm Jayesh C J
 
-### Cybersecurity | Penetration Testing | VAPT
+### 🔐 Cybersecurity | Penetration Testing | VAPT
 
-I'm a BCA graduate interested in cybersecurity, with a focus on web application security, vulnerability assessment, and penetration testing.
+I'm a BCA graduate passionate about cybersecurity, particularly **Web Application Security, Vulnerability Assessment, and Penetration Testing**.
 
-I enjoy exploring security vulnerabilities, performing hands-on assessments, building security tools, and documenting what I learn through practical projects and writeups.
+I enjoy exploring vulnerabilities, performing hands-on security labs, building security tools, and documenting my learning journey.
 
-### 🔐 Areas of Interest
+---
 
-- Web Application Penetration Testing
+## 🛠️ Skills & Tools
+
+### Security Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gobuster-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ffuf-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nuclei-4B32C3?style=for-the-badge" />
+</p>
+
+### Programming & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
+
+### Areas of Interest
+
+- Web Application Security
 - API Security
-- Vulnerability Assessment & Penetration Testing (VAPT)
+- Vulnerability Assessment & Penetration Testing
 - Network Reconnaissance
 - OSINT Investigation
 - Email Threat Analysis
 - Linux Security
 
-### 🛠️ Tools & Technologies
+---
 
-| Category | Tools |
-|---|---|
-| Web Security | Burp Suite |
-| Reconnaissance | Nmap, Gobuster, ffuf, Nuclei |
-| Network Analysis | Wireshark |
-| Operating Systems | Kali Linux, Linux |
-| Programming | Python |
-| Security Concepts | OWASP Top 10, Web Security, VAPT |
+## 🚀 Featured Projects
 
-### 🚀 Featured Projects
+### 🔎 [Web Reconnaissance Tool](https://github.com/Jayesh-cj/Web-Reconnaissance-Tool)
 
-**1. Web Reconnaissance Tool**
+A Python-based reconnaissance framework for gathering website information and generating structured reports.
 
-A Python-based reconnaissance framework for gathering information about web targets, including DNS, WHOIS/RDAP, IP information, HTTP headers, and SSL/TLS.
+### 📝 [Penetration Testing Writeups](https://github.com/Jayesh-cj/pentest-writeups)
 
-[View Repository](https://github.com/Jayesh-cj/Web-Reconnaissance-Tool)
+A collection of practical penetration testing lab notes and machine walkthroughs, documenting enumeration, exploitation, and privilege escalation.
 
-**2. Penetration Testing Writeups**
+### 🛡️ [Pentest Checklist Application](https://github.com/Jayesh-cj/pentest-checklist-appliction)
 
-A collection of practical security lab writeups documenting reconnaissance, enumeration, exploitation, and privilege escalation.
+A web-based checklist application to organize and track web application security assessments.
 
-[View Repository](https://github.com/Jayesh-cj/pentest-writeups)
+🔗 **[Live Demo](https://jayesh-cj.github.io/pentest-checklist-appliction/)**
 
-**3. Pentest Checklist Application**
+### 🎯 [PortSwigger Labs](https://github.com/Jayesh-cj/PortSwigger-labs)
 
-An interactive checklist application for organizing security assessments, tracking testing progress, and documenting vulnerabilities.
+Notes and practical solutions from hands-on web security labs.
 
-[Live Demo](https://jayesh-cj.github.io/pentest-checklist-appliction/) | [Source Code](https://github.com/Jayesh-cj/pentest-checklist-appliction)
+---
 
-**4. PortSwigger Web Security Labs**
-
-Documenting practical learning and research on web application vulnerabilities, including JWT attacks and authentication vulnerabilities.
-
-[View Repository](https://github.com/Jayesh-cj/PortSwigger-labs)
-
-### 🎓 Training & Internship
+## 🎓 Training & Internship
 
 - **Offenso Certified Security Analyst** – Offenso Academy
 - **Cybersecurity Internship** – Cryptonic Area
 
-Practical work involving:
+**Internship project areas:**
+
 - Email Threat Investigation & Analysis
 - OSINT Investigation & Intelligence Gathering
 - Vulnerability Assessment & Professional Reporting
 
-### 🌱 Currently Learning
+---
+
+## 📚 Currently Learning
 
 - Advanced Web Application Security
 - API Penetration Testing
 - Active Directory Security
 - Vulnerability Research
 
-### 🤝 Connect With Me
+---
 
-- [LinkedIn](https://www.linkedin.com/in/jayesh-c-j/)
-- [GitHub](https://github.com/Jayesh-cj)
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/jayesh-c-j/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Jayesh-cj">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-*Learning, testing, documenting, and improving my cybersecurity skills every day.*
+<p align="center">
+  <i>Learning, testing, documenting, and improving my cybersecurity skills every day.</i>
+</p>
