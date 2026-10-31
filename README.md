@@ -76,15 +76,6 @@ Notes and practical solutions from hands-on web security labs.
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced Web Application Security
-- API Penetration Testing
-- Active Directory Security
-- Vulnerability Research
-
----
-
 ## 🤝 Connect With Me
 
 <p>
