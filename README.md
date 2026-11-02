@@ -15,6 +15,7 @@ I enjoy exploring vulnerabilities, performing hands-on security labs, building s
 <p>
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Gobuster-333333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ffuf-333333?style=for-the-badge" />
@@ -32,6 +33,8 @@ I enjoy exploring vulnerabilities, performing hands-on security labs, building s
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
